@@ -2,7 +2,7 @@
 
 - 🧮 Atualmente estou trabalhando com Contabilidade
 - ✨ Sou formado em Design Gráfico
-- 👨‍💻 Estou começando a estudar JS
+- 👨‍💻 Estou começando meu caminho como Dev Front-end
 - 🦀 "computadores fazem arte, artistas fazem dinheiro..."
 
   <div style="display: inline_block"><br>
